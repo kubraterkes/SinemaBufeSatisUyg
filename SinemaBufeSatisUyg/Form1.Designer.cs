@@ -3,6 +3,7 @@
     partial class Form1
     {
         /// Merhaba
+        /// Hello World
         /// <summary>
         ///  Required designer variable.
         /// </summary>
