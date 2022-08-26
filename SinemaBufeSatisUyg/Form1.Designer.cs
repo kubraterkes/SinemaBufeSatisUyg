@@ -2,7 +2,9 @@
 {
     partial class Form1
     {
+
         /// Merhaba
+            /// Merhaba    /// Merhaba    /// Merhaba    /// Merhaba    /// Merhaba    /// Merhaba
         /// Hello World
         /// Mucho Grasya
         /// <summary>
